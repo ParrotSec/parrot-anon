@@ -1,0 +1,16 @@
+Package: parrot-anon
+Version: 1.2
+Architecture: all
+Maintainer: Lorenzo EclipseSparl Faletra <eclipse@frozenbox.org>
+Installed-Size: 28
+Depends: anonsurf
+Recommends: socat, gufw, libnotify-bin
+Suggests: vidalia, parrot-stealth
+Section: metapackages
+Priority: optional
+Description: Penetration testing and security auditing distribution, default system
+ This is Parrot Security OS, the most advanced penetration testing and security
+ auditing distribution.
+ .
+ This metapackage depends on all the packages that are installed by default
+ on any Parrot system.
