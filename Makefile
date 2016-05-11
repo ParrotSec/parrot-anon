@@ -1,7 +1,3 @@
-PACKAGE=parrot-anon
-INSTALL=install -m 0644
-
-
 all:
 
 clean:
