@@ -1,14 +1,21 @@
+Source: parrot-anon
+Section: parrot
+Priority: optional
+Maintainer: Lorenzo "Palinuro" Faletra <palinuro@frozenbox.org>
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@frozenbox.org>,
+           Lisetta "Sheireen" Ferrero <sheireen@frozenbox.org>
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: pkg-config
+Homepage: http://www.parrotsec.org/
+
 Package: parrot-anon
-Version: 1.3
 Architecture: all
-Maintainer: Lorenzo EclipseSparl Faletra <eclipse@frozenbox.org>
-Installed-Size: 28
 Depends: anonsurf
 Recommends: socat, gufw, polipo, proxychains, openvpn, libnotify-bin
 Suggests: vidalia, parrot-stealth
-Section: metapackages
 Priority: optional
-Description: Penetration testing and security auditing distribution, default system
+Description: Anonymization toolchain
  This is Parrot Security OS, the most advanced penetration testing and security
  auditing distribution.
  .
