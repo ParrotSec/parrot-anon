@@ -1,0 +1,6 @@
+parrot-anon (1.3+parrot0) testing; urgency=medium
+
+  * Debianize sources
+  * Import old package
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@parrotsec.org>  Tue, 17 May 2016 01:56:44 +0200
