@@ -12,7 +12,7 @@ Homepage: http://www.parrotsec.org/
 Package: parrot-anon
 Architecture: all
 Depends: anonsurf
-Recommends: socat, gufw, polipo, proxychains, openvpn, libnotify-bin, network-manager-openvpn-gnome, network-manager-ssh-gnome
+Recommends: socat, gufw, polipo, proxychains, openvpn, libnotify-bin, network-manager-openvpn-gnome, network-manager-ssh-gnome, torbrowser-launcher, vidalia
 Suggests: vidalia
 Priority: optional
 Description: Anonymization toolchain

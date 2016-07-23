@@ -1,3 +1,9 @@
+parrot-anon (1.3+parrot1) testing; urgency=medium
+
+  * add torbrowser and vidalia
+
+ -- Lisetta "Sheireen" Ferrero <sheireen@autistiche.org>  Sat, 23 Jul 2016 10:36:57 +0400
+
 parrot-anon (1.3+parrot0) testing; urgency=medium
 
   * Debianize sources

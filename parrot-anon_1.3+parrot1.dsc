@@ -2,7 +2,7 @@ Format: 3.0 (native)
 Source: parrot-anon
 Binary: parrot-anon
 Architecture: all
-Version: 1.3+parrot0
+Version: 1.3+parrot1
 Maintainer: Lorenzo "Palinuro" Faletra <palinuro@frozenbox.org>
 Uploaders: Lorenzo "Palinuro" Faletra <palinuro@frozenbox.org>, Lisetta "Sheireen" Ferrero <sheireen@frozenbox.org>
 Homepage: http://www.parrotsec.org/
@@ -12,8 +12,8 @@ Build-Depends-Indep: pkg-config
 Package-List:
  parrot-anon deb parrot optional arch=all
 Checksums-Sha1:
- 0df6fd568e94e1911c081ec92509ab1057209ea0 12516 parrot-anon_1.3+parrot0.tar.xz
+ 3fb92e800edd995ad48e47443c2bd6af8cb7824c 12568 parrot-anon_1.3+parrot1.tar.xz
 Checksums-Sha256:
- 5f34888f3ca7da1ff73493eb8f71ad8aa73d5048d5a564bda8d66020b5cc130d 12516 parrot-anon_1.3+parrot0.tar.xz
+ 5470fd49eae55a37a2604ae650992812874ac4d4d949357478c81f93c8905529 12568 parrot-anon_1.3+parrot1.tar.xz
 Files:
- bffa69c9c944effe2cda0c3ad3d7fd8d 12516 parrot-anon_1.3+parrot0.tar.xz
+ 857ca2a0ca7cb5fd7e00c6dce2dbd4f1 12568 parrot-anon_1.3+parrot1.tar.xz
